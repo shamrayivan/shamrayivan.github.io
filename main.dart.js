@@ -103315,7 +103315,7 @@ $S:0}
 A.Pa.prototype={
 wt(a){var s=0,r=A.Y(t.C),q,p,o
 var $async$wt=A.Z(function(b,c){if(b===1)return A.V(c,r)
-while(true)switch(s){case 0:q=A.es("http://172.16.20.19/Infobase2/hs/RMR/GetReference?ReferenceName=TypesOfVehicle")
+while(true)switch(s){case 0:q=A.es("https://29c2-91-246-117-14.ngrok-free.app/Infobase2/hs/RMR/GetReference?ReferenceName=TypesOfVehicle")
 p=B.W.gda().co("admin:123")
 o=t.N
 s=2
