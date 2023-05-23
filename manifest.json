@@ -1,6 +1,6 @@
 {
-    "name": "infiniti_group",
-    "short_name": "infiniti_group",
+    "name": "promt_app",
+    "short_name": "promt_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
